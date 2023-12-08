@@ -1,1 +1,1 @@
-document.write('this is my hacking')
+document.write('this is my hack')
